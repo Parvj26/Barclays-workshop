@@ -8,7 +8,7 @@
 
 # <div align="center">TJX Demo and Workshop repository</div>
 
-This repository contains workshop content for TJX to be held on <b>08/30 and 08/31 (tentative)</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
+This repository contains workshop content for TJX to be held on <b>12/21</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
 ## Introduction
 
@@ -21,7 +21,7 @@ This workshop perfect for those looking to get started with Confluent Cloud and 
 ## Zoom Link: 
 Will be updated
 
-## Workshop Agenda - Day 1:
+## Workshop Agenda:
 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
@@ -32,16 +32,7 @@ Will be updated
 | Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
 | Workshop Environment setup |  1:30 - 1:45  | TJX team |
 | Hands-on Workshop |  2:00 - 3:00  | Hands-on labs - TJX team |
-| Day 1 wrap-up and next steps |  3:00 - 3:30  |  Confluent Team  |
-
-## Workshop Agenda - Day 2:
-
-| Topic | Time | Speaker |
-| --- | --- | --- |
-| Confluent Cloud Capacity Planning (Cluster Topology, Throughput, Managed Connectors/ksql) |  10:00 - 11:00  |  TJX/Confluent |
-| Break |  11:00 - 11:15  |  |
-| Networking and Infosec requirements|  11:15 - 12:00  |  TJX/Confluent  |
-| Workshop Summary and Value Assessment |  12:00 - 12:30  |  TJX/Confluent  |
+| Wrap-up and next steps |  3:00 - 3:30  |  Confluent Team  |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
@@ -780,5 +771,3 @@ Here are some links to check out if you are interested in further testing:
 - [Best Practices for Developing Apache Kafka Applications on Confluent Cloud](https://assets.confluent.io/m/14397e757459a58d/original/20200205-WP-Best_Practices_for_Developing_Apache_Kafka_Applications_on_Confluent_Cloud.pdf)
 
 ***
-
-# tjx-workshop
