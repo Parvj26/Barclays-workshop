@@ -8,7 +8,7 @@
 
 # <div align="center">TJX Demo and Workshop repository</div>
 
-This repository contains workshop content for TJX to be held on <b>12/21</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
+This repository contains workshop content for TJX to be held on <b>01/23</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
 ## Introduction
 
@@ -25,14 +25,12 @@ Will be updated
 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
-| Workshop Kickoff |  10:00 - 10:15  | Dan Elliman - Confluent |
-| Review TJX platform setup and Use Cases |  10:15 - 11:00  | TJX team |
-| Break |  11:00 - 11:15  |  |
-| Confluent Introduction and <br/> Hands-on Workshop Demo |  11:15 - 12:30  | Ravi Appalla - Confluent |
-| Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
-| Workshop Environment setup |  1:30 - 1:45  | TJX team |
-| Hands-on Workshop |  2:00 - 3:00  | Hands-on labs - TJX team |
-| Wrap-up and next steps |  3:00 - 3:30  |  Confluent Team  |
+| Workshop Kickoff |  09:30 - 09:45  | Dan Elliman - Confluent |
+| Review TJX platform setup and use Cases |  09:45 - 10:15  | TJX team |
+| Break |  10:15 - 10:30  |  |
+| Workshop Environment setup |  10:30 - 10:45  | TJX team |
+| Confluent Introduction and <br/> Hands-on Workshop Demo |  10:45 - 12:15  | Ravi Appalla - Confluent |
+| Wrap-up and next steps |  12:15 - 12:30  |  Confluent Team  |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
@@ -47,9 +45,9 @@ Will be updated
 10. [Windowing Operations and Fraud Detection](#step-10)
 11. [Pull Queries](#step-11)
 12. [Enable Schema Registry](#step-12)
-13. [Set Up: Connect Self Managed Services to Confluent Cloud](#step-13)
-14. [Deploy: Connect Self Managed Services to Confluent Cloud](#step-14)
-15. [Launch: PostgreSQL Source Connector in Confluent Control Center](#step-15)
+13. [OPTIONAL - Set Up: Connect Self Managed Services to Confluent Cloud](#step-13)
+14. [OPTIONAL - Deploy: Connect Self Managed Services to Confluent Cloud](#step-14)
+15. [OPTIONAL - Launch: PostgreSQL Source Connector in Confluent Control Center](#step-15)
 16. [Confluent Cloud Schema Registry](#step-16)
 17. [Clean Up Resources](#step-17)
 18. [Confluent Resources and Further Testing](#step-18)
