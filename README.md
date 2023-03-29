@@ -6,9 +6,9 @@
     <img src="images/confluent.png" width=50% height=50%>
 </div>
 
-# <div align="center">TJX Demo and Workshop repository</div>
+# <div align="center">Barclays Demo and Workshop repository</div>
 
-This repository contains workshop content for TJX to be held on <b>01/23</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
+This repository contains workshop content for Barclays to be held on <b>01/23</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
 ## Introduction
 
@@ -26,9 +26,9 @@ Will be updated
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
 | Workshop Kickoff |  09:30 - 09:45  | Dan Elliman - Confluent |
-| Review TJX platform setup and use Cases |  09:45 - 10:15  | TJX team |
+| Review Barclays platform setup and use Cases |  09:45 - 10:15  | Barclays team |
 | Break |  10:15 - 10:30  |  |
-| Workshop Environment setup |  10:30 - 10:45  | TJX team |
+| Workshop Environment setup |  10:30 - 10:45  | Barclays team |
 | Confluent Introduction and <br/> Hands-on Workshop Demo |  10:45 - 12:15  | Ravi Appalla - Confluent |
 | Wrap-up and next steps |  12:15 - 12:30  |  Confluent Team  |
 
