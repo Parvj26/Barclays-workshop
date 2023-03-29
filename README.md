@@ -25,11 +25,11 @@ Will be updated
 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
-| Workshop Kickoff |  09:30 - 09:45  | Dan Elliman - Confluent |
+| Workshop Kickoff |  09:30 - 09:45  | Michael O'Leary - Confluent |
 | Review Barclays platform setup and use Cases |  09:45 - 10:15  | Barclays team |
 | Break |  10:15 - 10:30  |  |
 | Workshop Environment setup |  10:30 - 10:45  | Barclays team |
-| Confluent Introduction and <br/> Hands-on Workshop Demo |  10:45 - 12:15  | Ravi Appalla - Confluent |
+| Confluent Introduction and <br/> Hands-on Workshop Demo |  10:45 - 12:15  | Parv "PJ" Jain - Confluent |
 | Wrap-up and next steps |  12:15 - 12:30  |  Confluent Team  |
 
 ## Topics Covered in the Demo and Workshop:
